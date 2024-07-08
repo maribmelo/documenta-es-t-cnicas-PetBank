@@ -9,8 +9,8 @@ Os proprietários terão a capacidade de monitorar suas economias, receber alert
 
 Assim, o PetBank não apenas preenche uma lacuna crítica no mercado financeiro para pets, mas também visa melhorar significativamente a qualidade de vida dos animais de estimação e fortalecer os laços entre os tutores e seus pets através de uma abordagem inovadora e acessível.
 
-## Tipos de documentação 
-O curso irá abordar 6 formatos de documentação técnica: 
+## Lista de documentação técnica
+O projeto irá propor 6 documentações:
 
 1. [Documentação Funcional]( )
 2. [Tutorial]( )
