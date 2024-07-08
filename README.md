@@ -1,7 +1,7 @@
 # Projeto Alura - Documentações da PetBank
 
 ## Contexto 
-Projeto em desenvolvimento para o curso de **Technical Writing**, da Alura. O PetBank é um banco digital inovador voltado para proporcionar segurança financeira aos proprietários de animais de estimação, especialmente em situações emergenciais relacionadas à saúde dos pets.
+Projeto em desenvolvimento para o curso de **Technical Writing**, da Alura. O PetBank é um banco digital inovador voltado para proporcionar segurança financeira aos tutores de animais de estimação, especialmente em situações emergenciais relacionadas à saúde dos pets.
 
 O sistema permitirá aos usuários criar contas de reserva específicas para custos veterinários, permitindo depósitos regulares e investimentos seguros. Com funcionalidades de fácil acesso via aplicativo móvel e web, o PetBank oferecerá transparência e controle sobre os recursos financeiros destinados aos cuidados com os pets.
 
