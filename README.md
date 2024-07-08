@@ -1,16 +1,22 @@
 # Projeto Alura - Documentações da PetBank
 
 ## Contexto 
-Este repositório faz parte do curso de formação de **Technical Writing**, da Alura. Nele, você vai encontrar modelos de documentações técnicas que serão abordadas nas aulas com objetivo de fixar seus conhecimentos e trazer modelos de base para você iniciar neste universo de documentar. 
+Projeto em desenvolvimento para o curso de **Technical Writing**, da Alura. O PetBank é um banco digital inovador voltado para proporcionar segurança financeira aos proprietários de animais de estimação, especialmente em situações emergenciais relacionadas à saúde dos pets.
+
+O sistema permitirá aos usuários criar contas de reserva específicas para custos veterinários, permitindo depósitos regulares e investimentos seguros. Com funcionalidades de fácil acesso via aplicativo móvel e web, o PetBank oferecerá transparência e controle sobre os recursos financeiros destinados aos cuidados com os pets.
+
+Os proprietários terão a capacidade de monitorar suas economias, receber alertas de fundos insuficientes para emergências e acessar orientações sobre gestão financeira voltada para cuidados veterinários. Além disso, o PetBank incentivará a educação financeira sobre a importância de reservas para saúde animal, promovendo um maior bem-estar e tranquilidade aos donos de pets.
+
+Assim, o PetBank não apenas preenche uma lacuna crítica no mercado financeiro para pets, mas também visa melhorar significativamente a qualidade de vida dos animais de estimação e fortalecer os laços entre os tutores e seus pets através de uma abordagem inovadora e acessível.
 
 ## Tipos de documentação 
 O curso irá abordar 6 formatos de documentação técnica: 
 
-1. [Documentação Funcional](https://github.com/marimoreiratw/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-funcional.md)
-2. [Tutorial](https://github.com/marimoreiratw/projeto-alura/blob/main/tutorial.md)
-3. [Guia how-to (How-to guide)](https://github.com/marimoreiratw/projeto-alura/blob/main/guia-how-to.md)
-5. [Troubleshooting](https://github.com/marimoreiratw/projeto-alura/blob/main/troubleshooting.md)
-6. [Documentação de API](https://github.com/marimoreiratw/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-api.md)
-7. [Release Notes](https://github.com/marimoreiratw/projeto-alura/blob/main/release-notes.md)
-8. [Guia de Início Rápido (Quick Start Guide)](https://github.com/marimoreiratw/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md)
-9. [Perguntas frequentes (FAQ)](https://github.com/marimoreiratw/projeto-alura/blob/main/perguntas-frequentes-faq.md)
+1. [Documentação Funcional]( )
+2. [Tutorial]( )
+3. [Guia how-to (How-to guide)]( )
+5. [Troubleshooting]( )
+6. [Documentação de API]( )
+7. [Release Notes]( )
+8. [Guia de Início Rápido (Quick Start Guide)]( )
+9. [Perguntas frequentes (FAQ)]( )
