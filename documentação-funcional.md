@@ -27,3 +27,4 @@ O PetBank é ideal para qualquer pessoa que seja tutor de um animal de estimaç�
 ### Crie sua conta
 
 Criar sua conta no PetBank é simples e direto! Venha para nosso tutorial de [**Como criar sua conta**](URL)
+Os interessados podem se cadastrar facilmente através do aplicativo móvel ou do site, seguindo passos intuitivos para configurar sua conta de reserva para custos veterinários.
