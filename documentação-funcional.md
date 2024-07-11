@@ -12,7 +12,7 @@ O PetBank é um banco digital inovador voltado para proporcionar segurança fina
 A seguir, você encontra mais informações sobre: 
 
 * Serviços disponíveis
-* Para quem é a PetBank?
+* Para quem é o PetBank?
 * Como criar sua conta  
 
 
@@ -22,10 +22,8 @@ Todos os serviços da PetBank foram criados para eliminar burocracias e garantir
 
 ### Para quem é a PetBank? 
 
-Para todas as pessoas que buscam liberdade e praticidade na hora de cuidar de sua vida financeira. Se você tem mais de 18 anos, pode criar sua conta acessando o nosso site e seguindo os passos indicados. 
-
-No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto responsável realize a abertura de conta e seja o responsável financeiro. 
+O PetBank é ideal para qualquer pessoa que seja tutor de um animal de estimação e deseje estar financeiramente preparada para situações emergenciais relacionadas à saúde de seus pets. É um serviço ideal para aqueles que procuram uma maneira organizada e eficaz de economizar especificamente para despesas veterinárias, garantindo que possam oferecer os melhores cuidados sem comprometer suas finanças pessoais.
 
 ### Crie sua conta
 
-Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [**Como criar sua conta**](URL)
+Criar sua conta no PetBank é simples e direto! Venha para nosso tutorial de [**Como criar sua conta**](URL)
