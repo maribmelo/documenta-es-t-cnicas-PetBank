@@ -5,22 +5,22 @@ A documentação funcional é o tipo de documento que apresenta um produto, func
 
 ## Exemplo de documentação 
 
-# Bytebank
+# PetBank
 
-A ByteBank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros. 
+O PetBank é um banco digital inovador voltado para proporcionar segurança financeira aos tutores de animais de estimação, especialmente em situações emergenciais relacionadas à saúde dos pets.
 
 A seguir, você encontra mais informações sobre: 
 
 * Serviços disponíveis
-* Para quem é a Bytebank?
+* Para quem é a PetBank?
 * Como criar sua conta  
 
 
 ### Serviços disponíveis
 
-Todos os serviços da Bytebank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
+Todos os serviços da PetBank foram criados para eliminar burocracias e garantir que você crie contas de reserva específicas para custos veterinários, permitindo depósitos regulares e investimentos seguros. Com funcionalidades de fácil acesso via aplicativo móvel e web, o PetBank oferecerá transparência e controle sobre os recursos financeiros destinados aos cuidados com os pets.
 
-### Para quem é a Bytebank? 
+### Para quem é a PetBank? 
 
 Para todas as pessoas que buscam liberdade e praticidade na hora de cuidar de sua vida financeira. Se você tem mais de 18 anos, pode criar sua conta acessando o nosso site e seguindo os passos indicados. 
 
